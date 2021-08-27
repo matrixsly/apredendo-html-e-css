@@ -1,0 +1,53 @@
+body{
+     width: 940px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*mudando a fonte da pagina toda e alterando a largura*/
+
+
+
+h1 {
+     background-color: #E1EDF2;
+     padding: 10px;
+}
+/*mudando a fonte da cor de fundo do titulo
+adiciondo 10px de espaço interno*/
+
+
+h2 {
+border-bottom: 2px solid black;
+}
+/* colocando uma borda em baixo do h2*/
+
+figure {
+     text-align: center;
+     
+     border: 1px solid lightgrey;
+     background-color: whitesmoke;
+     padding: 15px;
+     margin: 30px;
+}
+figcaption {
+     margin-top: 10px;
+}
+
+/*ajustando a imagem para para centro 
+inserindo uma forma para a borda e uma cor
+adicionando espaço interno de 15px*/
+
+/*padding = espaçamento interno*
+padding-top
+padding-right
+padding-bottom
+padding-left/
+
+/*margin = espaçamento externo
+margin-top
+margin-right
+margin-bottom
+margin-left*/
+
+
+
+
