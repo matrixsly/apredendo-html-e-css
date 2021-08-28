@@ -1,0 +1,22 @@
+
+h1 {
+     border: crimson;
+     border-style: solid;
+     border-width: 2px;
+     margin-right: 80%;
+     padding: 20px;
+     background-color: blanchedalmond;
+     text-align: center;
+}
+
+#lista {
+     border: yellow;
+     border-width: 2px;
+     border-style: solid;
+     margin-right: 82%;
+     border-inline: initial;
+     border-left: yellow;
+     border-right: yellow;
+     padding: 30px;
+
+}
